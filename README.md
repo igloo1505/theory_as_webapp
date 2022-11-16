@@ -10,8 +10,10 @@ Although the principle of equivalence was well understood before Einstein's gene
 From this equivalence, Einstein determined that the frequency $f_e$ emitted from source at some elevation $h$ above the surface of a gravitating object, this source would be observed on the surface according to the following equation:
 
 $$
+\label{1}
 f_r = f_e\sqrt{\frac{1 - \frac{2GM}{\left(R + h\right)c^2}}{1 - \frac{2GM}{Rc^2}}}
 $$
+
 Before addressing this equation, we should note the definition of our free fall velocity as:
 
 $$
